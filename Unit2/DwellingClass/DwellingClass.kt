@@ -1,4 +1,3 @@
-```kotlin
 /**
 * Program that implements classes for different kinds of dwellings.
 *  1. classes and inheritance
@@ -98,4 +97,3 @@ class RoundTower(residents: Int,
         return super.floorArea() * floors        // super調用parent的函數
     }
 }
-```
