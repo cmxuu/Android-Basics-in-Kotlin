@@ -7,10 +7,10 @@
 	- [Android Studio](https://hackmd.io/8V3dt_jpQ_WXw3Rr2bKDSQ)
 
 ## Content
-- **單元 1：Kotlin 基本概念**
+- 單元 1：Kotlin 基本概念
 	- HappyBirthday: textView, imageView
 	- DiceRoller: button, setOnClickListener(), unit tests
 	- Debugging: logging
 	- lemonade: final profect of unit 1
-- **單元 2：版面配置**
+- 單元 2：版面配置
 	- ..
