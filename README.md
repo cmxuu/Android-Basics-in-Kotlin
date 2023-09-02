@@ -13,4 +13,5 @@
 	- Debugging: logging
 	- lemonade: final profect of unit 1
 - 單元 2：版面配置
-	- ..
+	- DwellingClass: classes and inheritance
+	- ..user input, editable text field, Radio button, switch button
