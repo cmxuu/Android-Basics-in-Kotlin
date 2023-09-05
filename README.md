@@ -8,10 +8,12 @@
 
 ## Content
 - 單元 1：Kotlin 基本概念
-	- HappyBirthday: textView, imageView
+	- HappyBirthday: TextView, ImageView
 	- DiceRoller: button, setOnClickListener(), unit tests
 	- Debugging: logging
 	- lemonade: final profect of unit 1
 - 單元 2：版面配置
-	- DwellingClass: classes and inheritance
-	- ..user input, editable text field, Radio button, switch button
+	- DwellingClass: class and inheritance
+	- TipTime: XML, binding, Material Components, theme & style, app icon
+	- OrderList: class and list
+	- Affirmations: RecyclerView(Linear, Grid), Card
