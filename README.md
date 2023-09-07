@@ -18,3 +18,5 @@
 	- OrderList: class and list
 	- Affirmations: recyclerView(Linear, Grid), Card
 	- Dogglers: final profect of unit 1
+- 單元 3：導覽
+	- Words: intent(switch page, open url), layout switch button
