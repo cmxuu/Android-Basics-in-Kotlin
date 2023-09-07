@@ -1,0 +1,328 @@
+# 2023-09-07T05:42:25.529Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 6
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_button_is_displayed"
+    start_time {
+      seconds: 1694065330
+      nanos: 260000000
+    }
+    end_time {
+      seconds: 1694065332
+      nanos: 410000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-grid_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_horizontal_list_button_displays_horizontal_list"
+    start_time {
+      seconds: 1694065333
+      nanos: 167000000
+    }
+    end_time {
+      seconds: 1694065335
+      nanos: 421000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-clicking_horizontal_list_button_displays_horizontal_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_grid_list_button_displays_grid_list"
+    start_time {
+      seconds: 1694065336
+      nanos: 151000000
+    }
+    end_time {
+      seconds: 1694065338
+      nanos: 327000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-clicking_grid_list_button_displays_grid_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_vertical_list_button_displays_vertical_list"
+    start_time {
+      seconds: 1694065339
+      nanos: 164000000
+    }
+    end_time {
+      seconds: 1694065341
+      nanos: 205000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-clicking_vertical_list_button_displays_vertical_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_list_button_is_displayed"
+    start_time {
+      seconds: 1694065341
+      nanos: 954000000
+    }
+    end_time {
+      seconds: 1694065342
+      nanos: 944000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-horizontal_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_list_button_is_displayed"
+    start_time {
+      seconds: 1694065343
+      nanos: 574000000
+    }
+    end_time {
+      seconds: 1694065344
+      nanos: 474000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\logcat-com.example.dogglers.ButtonTests-vertical_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\Desktop\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_5_API_31(AVD) - 12\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

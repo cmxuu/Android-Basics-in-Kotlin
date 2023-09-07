@@ -16,4 +16,5 @@
 	- DwellingClass: class and inheritance
 	- TipTime: XML, binding, Material Components, theme & style, app icon
 	- OrderList: class and list
-	- Affirmations: RecyclerView(Linear, Grid), Card
+	- Affirmations: recyclerView(Linear, Grid), Card
+	- Dogglers: final profect of unit 1
